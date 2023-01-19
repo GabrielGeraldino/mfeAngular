@@ -1,0 +1,7 @@
+{
+  "name": "mfeAngular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
